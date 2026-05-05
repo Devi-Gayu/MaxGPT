@@ -1,0 +1,17 @@
+Max-GPT
+
+Dynamic SQL Query Executor with Visualization using Streamlit.
+
+Features
+- NLP → SQL conversion
+- Graph generation (line, bar, scatter, pie)
+- Query logging
+- CSV download
+
+sqlalchemy>=2.0.0
+groq>=0.3.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+python-dotenv>=1.0.0
+
